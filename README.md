@@ -1,2 +1,4 @@
 # MDHL_MelanyRobalo_T1M1
 Repositorio para MindHub Frontend
+
+09/02 - REALIZACION DE TASK 1 PARA EL CURSO DE FRONT END DE MINDHUB
